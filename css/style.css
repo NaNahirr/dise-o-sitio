@@ -90,9 +90,9 @@ div .hijo1 {
   text-align: justify;
   width: 20rem;
 }
-.caja-imagen img{
+.caja-imagen img {
   height: 30rem;
-  width:60%;
+  width: 60%;
 }
 .boton-centro {
   text-align: center;
@@ -276,7 +276,8 @@ input {
 }
 .copy-right {
   position: relative;
-  right: 1rem; bottom: -5rem;
+  right: 1rem;
+  bottom: -5rem;
 }
 /* media queries*/
 
@@ -311,16 +312,16 @@ input {
   .hijo1 h1 {
     text-align: center;
   }
-  .caja-imagen img{
+  .caja-imagen img {
     height: 100%;
     margin-left: 10rem;
-    width:100%;
+    width: 100%;
   }
   h1.texto1 {
     text-align: justify;
     width: 100%;
   }
-  .texto1{
+  .texto1 {
     text-align: justify;
     width: 100%;
   }
@@ -407,6 +408,7 @@ input {
   }
   .copy-right {
     position: relative;
-    right: 1rem; bottom: -22rem;
+    right: 1rem;
+    bottom: -22rem;
   }
 }
